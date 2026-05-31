@@ -1,2 +1,2 @@
-# fullstack-learning-journey
+100-days-fullstack
 for future
